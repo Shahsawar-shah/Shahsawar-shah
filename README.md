@@ -133,7 +133,7 @@ A secure and feature-rich todo management system with JWT authentication.
 
 ```javascript
 const shahSawar = {
-    code: ["JavaScript", "HTML", "CSS", "SQL"],
+    code: ["JavaScript", "HTML", "CSS", "SQL", "MONGODB"],
     technologies: {
         frontEnd: {
             js: ["React", "Next.js", "Redux"],
@@ -161,7 +161,7 @@ I'm actively seeking **Junior MERN Stack Developer** opportunities where I can c
 
 [![Email](https://img.shields.io/badge/Email-shahsawar.codes%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahsawar.codes@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Shahsawar--shah-black?style=for-the-badge&logo=github)](https://github.com/Shahsawar-shah)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shahsawarshah/)
 
 **📞 Phone:** +92 3265521790  
 **📍 Location:** Pakistan | Open to Remote/Onsite
