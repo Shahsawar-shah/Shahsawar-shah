@@ -105,20 +105,6 @@ A secure and feature-rich todo management system with JWT authentication.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Shah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahsawar-shah&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahsawar-shah&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shahsawar-shah&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 🎓 Learning Journey
 
 - ✅ **Self-taught** MERN Stack Developer
