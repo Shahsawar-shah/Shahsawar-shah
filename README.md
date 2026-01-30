@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi, I'm Shah Sawar
+#  Hi, I'm Shah Sawar
 
 ### Junior MERN Stack Developer | Building Scalable Web Solutions
 
@@ -12,19 +12,19 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a passionate **MERN Stack Developer** focused on building secure, scalable, and user-friendly web applications. I specialize in creating full-stack solutions with clean code architecture and modern development practices.
 
-- 🔭 Currently working on **NCLEX Prep Platform** - A comprehensive exam preparation system
-- 🌱 Continuously learning advanced **React patterns** and **Node.js optimization**
-- 💡 Passionate about **backend security**, **JWT authentication**, and **role-based access control**
-- 🎯 Goal: Contributing to open-source projects and building impactful products
-- 📍 Based in **Pakistan** | Open to **Remote & Onsite** opportunities
+-  Currently working on **NCLEX Prep Platform** - A comprehensive exam preparation system
+-  Continuously learning advanced **React patterns** and **Node.js optimization**
+-  Passionate about **backend security**, **JWT authentication**, and **role-based access control**
+-  Goal: Contributing to open-source projects and building impactful products
+-  Based in **Pakistan** | Open to **Remote & Onsite** opportunities
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 ### Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -53,17 +53,17 @@ I'm a passionate **MERN Stack Developer** focused on building secure, scalable, 
 
 ---
 
-## 🎯 Featured Projects
+##  Featured Projects
 
-### 🏥 Hospital Management System
+###  Hospital Management System
 A comprehensive healthcare management solution with dual frontend architecture for patients and administrators.
 
 **Key Features:**
-- 🔐 Role-based authentication (Patient & Admin)
-- 📅 Smart appointment booking with department/doctor selection
-- 👨‍⚕️ Doctor management with image uploads
-- ✅ Admin dashboard for appointment approval workflow
-- 🔒 Secure JWT-based authorization
+-  Role-based authentication (Patient & Admin)
+-  Smart appointment booking with department/doctor selection
+-  Doctor management with image uploads
+-  Admin dashboard for appointment approval workflow
+-  Secure JWT-based authorization
 
 **Tech Stack:** `React` `Node.js` `Express` `MongoDB` `JWT` `Multer`
 
@@ -71,16 +71,16 @@ A comprehensive healthcare management solution with dual frontend architecture f
 
 ---
 
-### 📚 NCLEX Prep Platform *(In Development)*
+###  NCLEX Prep Platform *(In Development)*
 A modern exam preparation platform designed for nursing students preparing for NCLEX examinations.
 
 **Key Features:**
-- 📝 3,500+ practice questions across multiple categories
-- 🎯 Advanced filtering (category, difficulty, test mode)
-- 📊 Performance analytics and progress tracking
-- 🔐 Secure user authentication with profile management
-- 👑 Admin panel for content and user management
-- 💳 Payment gateway integration for premium features
+-  3,500+ practice questions across multiple categories
+-  Advanced filtering (category, difficulty, test mode)
+-  Performance analytics and progress tracking
+-  Secure user authentication with profile management
+-  Admin panel for content and user management
+-  Payment gateway integration for premium features
 
 **Tech Stack:** `React` `Node.js` `Express` `MongoDB` `JWT` `Stripe`
 
@@ -89,15 +89,15 @@ A modern exam preparation platform designed for nursing students preparing for N
 
 ---
 
-### ✅ MERN Todo Application
+###  MERN Todo Application
 A secure and feature-rich todo management system with JWT authentication.
 
 **Key Features:**
-- ✨ Complete CRUD operations
-- 🔐 User authentication & registration
-- 🛡️ Protected routes with JWT
-- 🎨 Responsive UI with Tailwind CSS
-- 📱 User-specific data isolation
+-  Complete CRUD operations
+-  User authentication & registration
+-  Protected routes with JWT
+-  Responsive UI with Tailwind CSS
+-  User-specific data isolation
 
 **Tech Stack:** `React` `Node.js` `Express` `MongoDB` `JWT` `Tailwind CSS`
 
@@ -105,17 +105,17 @@ A secure and feature-rich todo management system with JWT authentication.
 
 ---
 
-## 🎓 Learning Journey
+##  Learning Journey
 
-- ✅ **Self-taught** MERN Stack Developer
-- ✅ Strong foundation in **Computer Science fundamentals**
-- ✅ Hands-on experience with **real-world projects**
-- ✅ Continuous learner with focus on **clean code** and **best practices**
-- 🔄 Currently exploring **DevOps**, **Docker**, and **CI/CD pipelines**
+-  **Self-taught** MERN Stack Developer
+-  Strong foundation in **Computer Science fundamentals**
+-  Hands-on experience with **real-world projects**
+-  Continuous learner with focus on **clean code** and **best practices**
+-  Currently exploring **DevOps**, **Docker**, and **CI/CD pipelines**
 
 ---
 
-## 💼 What I Bring to the Table
+##  What I Bring to the Table
 
 ```javascript
 const shahSawar = {
@@ -158,10 +158,10 @@ I'm actively seeking **Junior MERN Stack Developer** opportunities where I can c
 
 <div align="center">
 
-### ⭐ "Code is like humor. When you have to explain it, it's bad." – Cory House
+###  "Code is like humor. When you have to explain it, it's bad." – Cory House
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shahsawar-shah&color=blueviolet&style=for-the-badge)
 
-**Thanks for visiting! Feel free to explore my repositories and reach out!** 💻
+**Thanks for visiting! Feel free to explore my repositories and reach out!** 
 
 </div>
