@@ -2,7 +2,7 @@
   
 #  Hi, I'm Shah Sawar
 
-### Junior MERN Stack Developer | Building Scalable Web Solutions
+### MERN Stack Developer | Building Scalable Web Solutions
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shahsawarshah/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:shahsawar.codes@gmail.com)
@@ -141,7 +141,7 @@ const shahSawar = {
 
 ## 🤝 Let's Connect!
 
-I'm actively seeking **Junior MERN Stack Developer** opportunities where I can contribute, learn, and grow. If you're looking for a dedicated developer who writes clean code and solves problems efficiently, let's connect!
+I'm actively seeking **MERN Stack Developer** opportunities where I can contribute, learn, and grow. If you're looking for a dedicated developer who writes clean code and solves problems efficiently, let's connect!
 
 <div align="center">
 
